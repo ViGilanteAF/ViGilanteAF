@@ -27,8 +27,8 @@
 
 <div align ="center">
 
- [![ViGilanteAF's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ViGilanteAF&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ViGilanteAF/github-readme-stats#gh-dark-mode-only)
-[![ViGilanteAF's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ViGilanteAF&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ViGilanteAF/github-readme-stats#gh-light-mode-only)
+ [![ViGilanteAF's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ViGilanteAF&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ViGilanteAF/)
+[![ViGilanteAF's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ViGilanteAF&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ViGilanteAF/)
  
 </div>
 
