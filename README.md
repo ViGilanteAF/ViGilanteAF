@@ -36,7 +36,7 @@
 
 <div align = "center">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViGilantAF&layout=compact)](https://github.com/ViGilantAF/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViGilanteAF&layout=compact)](https://github.com/ViGilanteAF)
 
  </div>
  
