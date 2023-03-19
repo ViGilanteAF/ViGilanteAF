@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hu%20Sang%20Min&fontSize=90&animation=twinkling)
 
-<p align = "center"> 🇰🇷 🇪🇬 🇨🇳 </p>
+<p align = "center"> 🇰🇷 🇺🇸 🇨🇳 </p>
  
  <div>
     <h1 align="center"> 🛠️ Teck Stack ️🛠️ </h1>
